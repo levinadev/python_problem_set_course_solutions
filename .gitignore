@@ -1,2 +1,17 @@
-*.agdai
-**/MAlonzo/**
+# Папки
+Lib/
+Scripts/
+share/
+
+# Файлы
+pyvenv.cfg
+.idea/
+*.iml
+*.pyc
+*.pyo
+__pycache__/
+
+
+# Виртуальное окружение
+venv/
+.venv/
